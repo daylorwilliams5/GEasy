@@ -1,0 +1,11 @@
+review_id,section_id,quality,workload,text
+1000,100,5,5,"Light readings, engaging lectures"
+1001,100,4,6,"Fun class, moderate assignments"
+1002,101,4,6,"Math-heavy labs, fair grading"
+1003,101,4,6,"Interesting content, decent pace"
+1004,102,5,7,"Challenging but rewarding; deep topics"
+1005,102,5,7,"Lots of writing, brilliant instructor"
+1006,103,4,4,"Easy quizzes, helpful slides"
+1007,103,3,5,"Some group work; manageable"
+1008,104,4,6,"Weekly essays; fair workload"
+1009,104,4,6,"Great readings, organized course"
