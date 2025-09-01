@@ -27,6 +27,10 @@ Try searches like:
 
 Results are displayed instantly from the database.  
 
+## Screenshot 
+<img width="1449" height="709" alt="Screenshot 2025-09-01 at 3 39 38 PM" src="https://github.com/user-attachments/assets/b4065f22-e3ad-42b6-9982-c63302a2dc01" />
+
+
 ## Tech Stack
 - Python (pandas, sqlite/duckdb)  
 - BeautifulSoup / custom scrapers for course data  
